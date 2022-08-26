@@ -48,7 +48,7 @@ function handleRegister(){
     })
     .then(data=>{
         console.log(data);
-        window.location.href = 'father.html'
+//         window.location.href = 'father.html'
 
     })
 }
